@@ -1,0 +1,4 @@
+﻿namespace MegaShopWeb.Api.ViewModels
+{
+    
+}
